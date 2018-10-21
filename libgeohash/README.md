@@ -59,6 +59,6 @@ https://blog.csdn.net/sunrise_2013/article/details/42395261
 https://github.com/mmcloughlin/geohash
 
 ## 参考资料
-[GeoHash维基百科](https://en.wikipedia.org/wiki/Geohash)
-[GeoHash核心原理解析](http://www.cnblogs.com/LBSer/p/3310455.html)
-[GeoHash演示](http://geohash.gofreerange.com/)
+[GeoHash维基百科](https://en.wikipedia.org/wiki/Geohash)  
+[GeoHash核心原理解析](http://www.cnblogs.com/LBSer/p/3310455.html)  
+[GeoHash演示](http://geohash.gofreerange.com/)  
